@@ -37,6 +37,8 @@ MC: The male hormone testesterone is produced by _________.
 	Y) Epididymis
 	Z) Vas deferens
 
+Answer: ?
+	
 5)
 
 MC: Which of the following annelids has a sucker at each end of its body?
@@ -215,7 +217,7 @@ ANSWER: ECTODERM; MESODERM; ENDODERM
 
 25)
 
-Which of the following kinds of mammal teeth are used to bite and cut?
+MC: Which of the following kinds of mammal teeth are used to bite and cut?
 	W) Incisors
 	X) Premolars
 	Y) Molars
@@ -343,11 +345,13 @@ MC: The movement of water through a plant is caused by which of the following?
 	
 ANSWER: Y) TRANSPIRATION FROM LEAVES AND STEMS
 
+41)
+
 SA: How many chambers are in the hearts of most reptiles?
 
 ANSWER: THREE
 
-41)
+42)
 
 MC: Which one of the following have blood cells that do not contain a nucleus?
 	W) Bat
@@ -357,7 +361,7 @@ MC: Which one of the following have blood cells that do not contain a nucleus?
 	
 Answer: W
 
-42)
+43)
 
 MC: Which of the following terms is used to describe animals that maintain a constant body temperature by producing heat by metabolic oxidations (muscle contractions) and losing excess heat by evaporative cooling?
 	W) poikilotherms
@@ -367,7 +371,7 @@ MC: Which of the following terms is used to describe animals that maintain a con
 	
 ANSWER: C -- HOMEOTHERMS
 
-43)
+44)
 
 MC: Which of the following is an example of a food chain?
 	W) Herring, cod, seal, shark, phytoplankton [fy-tuh-PLANGK-tuhn], copepod
@@ -377,7 +381,7 @@ MC: Which of the following is an example of a food chain?
 	
 ANSWER: X) PHYTOPLANKTON, COPEPOD, HERRING, COD, SEAL, SHARK
 
-44)
+45)
 
 MC: Which of the following is a reptile:
 	W) blue poison arrow frog
@@ -387,7 +391,7 @@ MC: Which of the following is a reptile:
 	
 ANSWER: Y) SNAPPING TURTLE
 
-45)
+46)
 
 MC: Which of the following is the male reproductive part of a flower?
 	W) Stamen
@@ -397,7 +401,7 @@ MC: Which of the following is the male reproductive part of a flower?
 	
 ANSWER: W) STAMEN
 
-46)
+47)
 
 MC: Which of the following statements is NOT true about leopards?
 	W) They are hybrids of lions and panthers
@@ -407,19 +411,19 @@ MC: Which of the following statements is NOT true about leopards?
 	
 ANSWER: W) THEY ARE HYBRIDS OF LIONS AND PANTHERS
 
-47)
+48)
 
 SA: What is the term for a biological preparation that imparts immunity or resistance to a particular disease, often containing an agent that resembles a disease-causing microorganism, such as weakened or killed forms of the microbe?
 
 ANSWER: VACCINE
 
-48)
+49)
 
 SA: What is the name of a diagram used to predict an outcome of a particular cross or breeding experiment, used to determine the probability of an offspring having a particular genotype?
 
 ANSWER: PUNNETT SQUARE
 
-49)
+50)
 
 MC: Frogs belong to which order?
 	W) Anura
@@ -429,7 +433,7 @@ MC: Frogs belong to which order?
 
 Answer: W
 
-50)
+51)
 
 MC: While recognizing that evolution is a continual process for all organisms, historically speaking, which of the following kinds of organisms evolved most recently on Earth?
 	W) Reptiles

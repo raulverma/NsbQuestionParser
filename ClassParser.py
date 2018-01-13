@@ -42,7 +42,7 @@ class QuestionParser():
             self.questions.append(self.questionText)
             self.questionText = ""
     def __parseSection__(self, text, qType ):
-        #print("single answer {}:{}:{}".format(self.lineCount, self.currentSectionLine, text))
+        # print("{} {}:{}:{}".format(qType, self.lineCount, self.currentSectionLine, text))
         if (qType == QuestionType.MultipleChoice):
             startSection = 3
             endSection = 10
@@ -51,11 +51,11 @@ class QuestionParser():
             endSection = 6
         if self.currentSectionLine >= startSection and self.currentSectionLine <= endSection:
             self.questionText += (text + os.linesep)
-        if self.currentSectionLine == endSection and (not (re.match('^Answer', text))):
-            #print("text:{}".format(text))
+        if self.currentSectionLine == endSection and (not (re.match('^Answer', text, re.IGNORECASE))):
+            # print("text:{}".format(text))
             print("Error {}:{} : {}".format(self.lineCount, self.currentSectionLine, text))
         if self.currentSectionLine == (endSection + 1):
-            print("{},{}".format(self.currentSectionLine, endSection+1))
+            # print("{},{}".format(self.currentSectionLine, endSection+1))
             self.currentSectionLine = 1
             self.questions.append(self.questionText)
             self.questionText = ""
