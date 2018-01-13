@@ -52,7 +52,7 @@ class QuestionParser():
         if self.currentSectionLine >= startSection and self.currentSectionLine <= endSection:
             self.questionText += (text + os.linesep)
         if self.currentSectionLine == endSection and (not (re.match('^Answer', text, re.IGNORECASE))):
-            # print("text:{}".format(text))
+            print("text:{}".format(text))
             print("Error {}:{} : {}".format(self.lineCount, self.currentSectionLine, text))
         if self.currentSectionLine == (endSection + 1):
             # print("{},{}".format(self.currentSectionLine, endSection+1))
