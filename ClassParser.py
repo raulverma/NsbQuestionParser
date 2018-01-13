@@ -81,15 +81,20 @@ def main():
     #print(sys.argv[0])
     currentPath = os.getcwd()
     filePath = os.path.join(currentPath, 'Biology.txt')
-    #print(filePath)
+    print(filePath)
     #filePath = r"C:\Users\raulv\OneDrive\SundayPractice\12312017\Biology.txt"
     if len(sys.argv) >= 2:
         filePath = sys.argv[1]
     if not os.path.isfile(filePath):
         print("File not found: {} using default".format(filePath))
+
     Biology = QuestionParser(filePath, "Life Science")
     Biology.Parse()
-    print(len(Biology.questions))
-    print(Biology.questions[1])
+
+    filePath = os.path.join(currentPath, 'Chemistry.txt')
+
+    Chemistry = QuestionParser(filePath, "Physical Science")
+    Chemistry.Parse()
+    
 if __name__ == '__main__':
     main()
