@@ -1,0 +1,448 @@
+
+1)
+
+MC: Which of the following countries produces over 90% of its energy through geothermal resources?
+	W) Iceland
+	X) United States
+	Y) China
+	Z) Russia
+	
+ANSWER: W) ICELAND
+
+2)
+
+MC:  What happens to a 180 watt solar panel's power output when the solar irradiance is lower than the one specified at standard temperature and pressure?
+	W) The power is converted from AC to DC
+	X) The power is converted from DC to AC
+	Y) It produces more than 180 watts
+	Z) It produces less than 180 watts
+	
+ANSWER: Z) IT PRODUCES LESS THAN 180 WATTS
+
+3)
+
+MC: Which of the following will save the most energy per load of laundry using an electric washing machine?
+	W) Using eco-friendly detergents
+	X) Using the cold water setting on the washer
+	Y) Skipping the spin cycle
+	Z) Running small loads when possible
+	
+ANSWER: X) USING THE COLD WATER SETTING ON THE WASHER
+
+4)
+
+SA: (BONUS) What term is used to describe the total estimated amount of producible oil in an oil reservoir [REZ-er-vwohr]?
+
+ANSWER: OIL RESERVES
+
+5)
+
+MC: Which of the following countries produces over 90% of its energy through geothermal resources?
+	W) Iceland
+	X) United States
+	Y) China
+	Z) Russia
+	
+ANSWER: W) ICELAND
+
+6)
+
+MC: (BONUS) What happens to a 180 watt solar panel's power output when the solar irradiance is lower than the one specified at standard temperature and pressure?
+	W) The power is converted from AC to DC
+	X) The power is converted from DC to AC
+	Y) It produces more than 180 watts
+	Z) It produces less than 180 watts
+	
+ANSWER: Z) IT PRODUCES LESS THAN 180 WATTS
+
+7)
+
+MC: Plasmas are typically described as glowing substances that are which of the following?
+	W) Non-conductive
+	X) Conductive
+	Y) Neutral
+	Z) Non-superconductive
+	
+ANSWER: X) CONDUCTIVE
+
+8)
+
+MC: (BONUS) Which of the following has the highest kinetic energy?
+	W) A 35-gram bullet traveling at 1.20 X 10^3 meters per second
+	X) A 35-kilogram cheetah running at 30 meters per second
+	Y) An 875-kilogram car traveling at 5 meters per second
+	Z) A 148-gram pitched baseball moving at 45 meters per second
+	
+ANSWER: W) A 35-GRAM BULLET TRAVELING AT 1.20 X 10^3 METERS PER SECOND
+
+9)
+
+MC: The first public demonstration of vegetable-oil-based diesel fuel took place at the 1900 World’s Fair. What type of oil was used?
+	W) Corn
+	X) Sunflower
+	Y) Peanut
+	Z) Canola
+	
+ANSWER: Y) PEANUT 
+
+10)
+
+SA: (BONUS) Given that stopping a bus requires 0.19 liters of fuel, and cars consume 0.076 liters per kilometer, how long in kilometers would your bus commute need to be to save an amount of gasoline equivalent to stopping the bus once?
+
+ANSWER: 2.5 
+
+11)
+
+MC: Much attention is being given to solid-state lighting because it can do which of the following?
+	W) Improve the power factor of power lines
+	X) Reduce lighting power consumption by one fourth
+	Y) Improve immunity to noise
+	Z) Compete, in terms of efficacy, with current lighting technology
+
+ANSWER: X) REDUCE LIGHTING POWER CONSUMPTION BY ONE FOURTH
+
+12)
+
+MC: (BONUS) A dry steam geothermal power plant produces electricity in which of the following ways?
+	W) Heating and condensing a working fluid
+	X) Using heat to boil a working fluid that is vaporized through a heat exchanger and drives a generator
+	Y) Using water at high temperatures to convert ground water into steam
+	Z) Using steam from underground wells to rotate a turbine, activating an electricity generator
+	
+ANSWER: Z) USING STEAM FROM UNDERGROUND WELLS TO ROTATE A TURBINE, ACTIVATING AN ELECTRICITY GENERATOR
+
+13)
+
+SA: When a sound wave moves from left to right, air particles collide with nearby air particles and form an area of compression. Then the first set of air particles moves to the left while the second set vibrates and moves to the right, leaving a space containing fewer particles. What is this called?
+
+ANSWER: RAREFACTION
+
+14)
+
+MC: (BONUS) A 16.8 kilogram boy is riding in a 4.5 kilogram wagon. A 12 kilogram girl pushes the wagon and exerts a constant force of 2.6 newtons over a distance of 3.5 meters. How much work in joules is done by the girl pushing the wagon?
+	W) 0.26
+	X) 9.1
+	Y) 66.4
+	Z) 127
+	
+ANSWER: X) 9.1
+
+15)
+
+MC: A flywheel battery consists of which of the following?
+	W) A voltage source providing power to a spinning disk
+	X) A voltage applied to a motor to make a flywheel rotate, storing energy as the motion of a spinning wheel
+	Y) Energy converted when a disk is rotated backwards
+	Z) Potential energy converted into magnetic energy
+	
+ANSWER: X) A VOLTAGE APPLIED TO A MOTOR TO MAKE A FLYWHEEL ROTATE, STORING ENERGY AS THE MOTION OF A SPINNING WHEEL
+
+16)
+
+SA: (BONUS) Order the following four electromagnetic waves from least to greatest in terms of the energy of their photons: 1) microwave, 2) infrared, 3) x-ray, 4) ultraviolet.
+
+ANSWER: 1, 2, 4, 3 (ACCEPT: MICROWAVE, INFRARED, ULTRAVIOLET, X-RAY)
+
+17)
+
+MC: Which of the following reflects the approximate percentage range of coal produced from surface mines as a fraction of total coal production in the U.S.?
+	W) 10-20%
+	X) 30-40%
+	Y) 40-50%
+	Z) More than 60%
+	
+ANSWER: Z) MORE THAN 60%
+
+18)
+
+MC: (BONUS) Burning rock refers to which of the following energy sources?
+	W) Coal
+	X) Oil shale
+	Y) Tar sands
+	Z) Peat
+	
+ANSWER: X) OIL SHALE
+
+19)
+
+MC: The energy used in our households comes through electrical lines originating from which of the following locations?
+	W) A generation station
+	X) A rectifying bridge
+	Y) A power supply
+	Z) A DC to DC converter
+	
+ANSWER: W) A GENERATION STATION
+
+20)
+
+MC: (BONUS) Fuel cells work in which of the following ways?
+	W) By converting chemical energy into electrical energy
+	X) By processing plant matter to generate electricity
+	Y) By converting thermal energy into electrical energy
+	Z) By using fossil fuels to generate mechanical energy
+	
+ANSWER: W) BY CONVERTING CHEMICAL ENERGY INTO ELECTRICAL ENERGY
+
+21)
+
+SA: If a single phase circuit contains at least one live wire, what is the minimum number of wires needed in a three phase system?
+
+ANSWER: THREE
+
+22)
+
+MC: (BONUS) Which of the following is a characteristic of appliances labeled under the Energy Star logo?
+	W) They consume 10-15% less energy than required by federal standards
+	X) They consume 20-30% less energy than required by federal standards
+	Y) They convert 30% of the electrical energy into mechanical energy
+	Z) They have an energy loss of around 20-30%
+	
+ANSWER: X) THEY CONSUME 20-30% LESS ENERGY THAN REQUIRED BY FEDERAL
+
+23)
+
+MC: Which of the following best describes a carbon footprint?
+	W) A footprint that is left when someone steps on carbon
+	X) The emission of greenhouse gases caused by a product or individual
+	Y) A monetary credit awarded to people who reduce their greenhouse gas emissions
+	Z) A factor that does not merit consideration when buying energy efficient appliances
+
+ANSWER: X) THE EMISSION OF GREENHOUSE GASES CAUSED BY A PRODUCT OR INDIVIDUAL
+
+24)
+
+MC: (BONUS) Beside batteries, which of the following is another way to store energy from renewable energy systems for later use?
+	W) Ultra inductors
+	X) Tesla coils
+	Y) Ultra capacitors
+	Z) Fuel cells
+	
+ANSWER: Y) ULTRA CAPACITORS
+
+25)
+
+MC: Which of the following statements best describes the importance of composting?
+	W) It is necessary for the growth of fruits and vegetables
+	X) It helps to prevent air pollution
+	Y) It puts organic material back in the ground
+	Z) It prevents the decomposition of organic material
+	
+ANSWER: Y) IT PUTS ORGANIC MATERIAL BACK IN THE GROUND
+
+26)
+
+MC: (BONUS) Of the following, which should NOT go into a compost pile?
+	W) Leaves
+	X) Grass
+	Y) Dairy products
+	Z) Coffee grains
+	
+ANSWER: Y) DAIRY PRODUCTS
+
+27)
+
+MC: Which of the following best describes an advantage of using an incinerator for solid waste?
+	W) It helps to reduce air pollution
+	X) It reduces the volume of materials that go to landfills
+	Y) It allows waste products to be recycled
+	Z) If operated as permitted, it is not at all hazardous to plants, animals, and people
+	
+ANSWER: X) IT REDUCES THE VOLUME OF MATERIALS THAT GO TO LANDFILLS
+
+28)
+
+SA: (BONUS) What term describes the process of changing the design, manufacture, or use of materials to reduce their quantity or toxicity before they become municipal solid waste?
+
+ANSWER: SOURCE REDUCTION
+
+29)
+
+MC: Which of the following classes of coal has the highest carbon content?
+	W) Anthracite [AN-thruh-syt]
+	X) Bituminous [by-TOO-muh-nuhs]
+	Y) Lignite
+	Z) Peat
+	
+ANSWER: W) ANTHRACITE
+
+30)
+
+MC: (BONUS) Approximately how long would a 100 watt bulb burn on the energy needed to manufacture one throw-away soft drink can?
+	W) 10 minutes
+	X) 5 hours
+	Y) 10 hours
+	Z) 100 hours
+	
+ANSWER: Y) 10 HOURS
+
+31)
+
+MC: Which of the following does NOT represent a type of electromagnetic radiation?
+	W) Radio
+	X) Sound
+	Y) X-rays
+	Z) Infrared
+	
+ANSWER: X) SOUND
+
+32)
+
+SA: (BONUS) To absorb the most heat from the Sun, a collector should be what color?
+
+ANSWER: BLACK
+
+33)
+
+MC: In the U.S., the frequency of alternating current is which of the following cycles per second?
+	W) 50
+	X) 60
+	Y) 70
+	Z) 80
+	
+ANSWER: X) 60
+
+34)
+
+SA: (BONUS) When a strip mine is closed, the mining company is responsible for planting vegetation and restoring the area. What name is given to this process of restoration?
+
+ANSWER: RECLAMATION
+
+35)
+
+MC: Most residential energy is used for which of the following?
+	W) Cooking
+	X) Water heating
+	Y) Space heating
+	Z) Powering computers
+	
+ANSWER: Y) SPACE HEATING
+
+36)
+
+MC: (BONUS) Cadmium and boron are used for control rods in a nuclear power plant because they do which of the following?
+	W) Split neutrons
+	X) Deflect neutrons
+	Y) Absorb neutrons
+	Z) Exude neutrons
+	
+ANSWER: Y) ABSORB NEUTRONS
+
+37)
+
+MC: The energy saved from recycling one aluminum can is enough to run a TV set for about how long?
+	W) 30 minutes
+	X) 1 hour
+	Y) 2 hours
+	Z) 3 hours
+	
+ANSWER: Z) 3 HOURS
+
+38)
+
+MC: (BONUS) To maximize the concentration of energy from the Sun, heliostats must do which of the following?
+	W) Track the zenith angle of the Sun
+	X) Track the solar declination of the Sun
+	Y) Track the azimuth angle and the altitude of the Sun
+	Z) Keep the panel facing up at all times
+	
+ANSWER: Y) TRACK THE AZIMUTH ANGLE AND THE ALTITUDE OF THE SUN STANDARDS FOR CRITICAL NEEDS IN THE ELECTRICAL GRID
+
+39)
+
+MC: Which of the following types of wind turbine will produce the most power?
+	W) Perpendicular axis
+	X) Tilted axis
+	Y) Vertical axis
+	Z) Horizontal axis
+	
+ANSWER: Z) HORIZONTAL AXIS
+
+40)
+
+SA: (Bonus) Given that, at standard conditions, the combustion of 1.0 moles of hydrogen with oxygen released 285.8 kilojoules of energy, providing your answer to the nearest tenth, how much energy in kilojoules is released when a balloon containing 0.15 moles of hydrogen is ignited in the air?
+
+ANSWER: 42.9
+
+41)
+
+MC: At least how many seismograph stations are needed to locate the epicenter of an earthquake?
+
+ANSWER: THREE
+
+42)
+
+MC: (BONUS) A falling leaf eventually stops accelerating towards Earth because of wind resistance. Potential energy of the leaf, however, is still decreasing as the leaf falls. Into which of the following forms of energy is the remaining potential energy converted?
+	W) Mechanical only
+	X) Kinetic only
+	Y) Thermal only
+	Z) Kinetic and thermal
+	
+ANSWER: Y) THERMAL ONLY
+
+43)
+
+SA: What is the SI unit of measurement for gravitational potential energy?
+
+ANSWER: JOULE
+
+44)
+
+MC: (BONUS) Which of the following rock types would most likely be the best oil reservoir [REZ-er-vwohr]?
+	W) Granite
+	X) Basalt
+	Y) Shale
+	Z) Sandstone
+	
+ANSWER: Z) SANDSTONE
+
+45)
+
+MC: Which of the following types of friction are you experiencing as you push a book across a table?
+	W) Accelerated
+	X) Kinetic
+	Y) Negative
+	Z) Static
+	
+ANSWER: X) KINETIC
+
+46)
+
+SA: (BONUS) How much work in joules is done by the force of gravity when a 50 newton object falls a distance of 10 meters?
+
+ANSWER: 500
+
+47)
+
+MC: Geothermal heat pumps take advantage of which of the following?
+	W) Salinity of the water stored underground
+	X) Temperature differences in the underground water layers
+	Y) Temperature difference between groundwater and the ground
+	Z) Temperature differences between the ground and buildings
+	
+ANSWER: Z) TEMPERATURE DIFFERENCES BETWEEN THE GROUND AND BUILDINGS
+
+48)
+
+MC: (BONUS) Which of the following is the effect of reactive power on the efficiency of a circuit?
+	W) It reduces efficiency
+	X) It increases efficiency by about 30%
+	Y) The efficiency remains unaffected
+	Z) The efficiency is maximized
+	
+ANSWER: W) IT REDUCES EFFICIENCY
+
+49)
+
+MC: Hydroelectric energy accounts for which of the following approximate proportions of the total energy consumed annually in the United States?
+	W) 1%
+	X) 8%
+	Y) 30%
+	Z) 65%
+	
+ANSWER: X) 8%
+
+50)
+
+SA: (BONUS) What phenomenon is demonstrated when liquids heated inside a microwave oven are removed, do not appear to boil, but then suddenly and without warning, erupt?
+
+ANSWER: SUPERHEATING
