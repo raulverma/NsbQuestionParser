@@ -6,7 +6,7 @@ MC: Which of the following countries produces over 90% of its energy through geo
 	X) United States
 	Y) China
 	Z) Russia
-	
+
 ANSWER: W) ICELAND
 
 2)
@@ -16,7 +16,7 @@ MC:  What happens to a 180 watt solar panel's power output when the solar irradi
 	X) The power is converted from DC to AC
 	Y) It produces more than 180 watts
 	Z) It produces less than 180 watts
-	
+
 ANSWER: Z) IT PRODUCES LESS THAN 180 WATTS
 
 3)
@@ -26,7 +26,7 @@ MC: Which of the following will save the most energy per load of laundry using a
 	X) Using the cold water setting on the washer
 	Y) Skipping the spin cycle
 	Z) Running small loads when possible
-	
+
 ANSWER: X) USING THE COLD WATER SETTING ON THE WASHER
 
 4)
@@ -42,7 +42,7 @@ MC: Which of the following countries produces over 90% of its energy through geo
 	X) United States
 	Y) China
 	Z) Russia
-	
+
 ANSWER: W) ICELAND
 
 6)
@@ -52,7 +52,7 @@ MC: (BONUS) What happens to a 180 watt solar panel's power output when the solar
 	X) The power is converted from DC to AC
 	Y) It produces more than 180 watts
 	Z) It produces less than 180 watts
-	
+
 ANSWER: Z) IT PRODUCES LESS THAN 180 WATTS
 
 7)
@@ -62,7 +62,7 @@ MC: Plasmas are typically described as glowing substances that are which of the 
 	X) Conductive
 	Y) Neutral
 	Z) Non-superconductive
-	
+
 ANSWER: X) CONDUCTIVE
 
 8)
@@ -72,7 +72,7 @@ MC: (BONUS) Which of the following has the highest kinetic energy?
 	X) A 35-kilogram cheetah running at 30 meters per second
 	Y) An 875-kilogram car traveling at 5 meters per second
 	Z) A 148-gram pitched baseball moving at 45 meters per second
-	
+
 ANSWER: W) A 35-GRAM BULLET TRAVELING AT 1.20 X 10^3 METERS PER SECOND
 
 9)
@@ -82,14 +82,14 @@ MC: The first public demonstration of vegetable-oil-based diesel fuel took place
 	X) Sunflower
 	Y) Peanut
 	Z) Canola
-	
-ANSWER: Y) PEANUT 
+
+ANSWER: Y) PEANUT
 
 10)
 
 SA: (BONUS) Given that stopping a bus requires 0.19 liters of fuel, and cars consume 0.076 liters per kilometer, how long in kilometers would your bus commute need to be to save an amount of gasoline equivalent to stopping the bus once?
 
-ANSWER: 2.5 
+ANSWER: 2.5
 
 11)
 
@@ -108,7 +108,7 @@ MC: (BONUS) A dry steam geothermal power plant produces electricity in which of 
 	X) Using heat to boil a working fluid that is vaporized through a heat exchanger and drives a generator
 	Y) Using water at high temperatures to convert ground water into steam
 	Z) Using steam from underground wells to rotate a turbine, activating an electricity generator
-	
+
 ANSWER: Z) USING STEAM FROM UNDERGROUND WELLS TO ROTATE A TURBINE, ACTIVATING AN ELECTRICITY GENERATOR
 
 13)
@@ -124,7 +124,7 @@ MC: (BONUS) A 16.8 kilogram boy is riding in a 4.5 kilogram wagon. A 12 kilogram
 	X) 9.1
 	Y) 66.4
 	Z) 127
-	
+
 ANSWER: X) 9.1
 
 15)
@@ -134,7 +134,7 @@ MC: A flywheel battery consists of which of the following?
 	X) A voltage applied to a motor to make a flywheel rotate, storing energy as the motion of a spinning wheel
 	Y) Energy converted when a disk is rotated backwards
 	Z) Potential energy converted into magnetic energy
-	
+
 ANSWER: X) A VOLTAGE APPLIED TO A MOTOR TO MAKE A FLYWHEEL ROTATE, STORING ENERGY AS THE MOTION OF A SPINNING WHEEL
 
 16)
@@ -150,7 +150,7 @@ MC: Which of the following reflects the approximate percentage range of coal pro
 	X) 30-40%
 	Y) 40-50%
 	Z) More than 60%
-	
+
 ANSWER: Z) MORE THAN 60%
 
 18)
@@ -160,7 +160,7 @@ MC: (BONUS) Burning rock refers to which of the following energy sources?
 	X) Oil shale
 	Y) Tar sands
 	Z) Peat
-	
+
 ANSWER: X) OIL SHALE
 
 19)
@@ -170,7 +170,7 @@ MC: The energy used in our households comes through electrical lines originating
 	X) A rectifying bridge
 	Y) A power supply
 	Z) A DC to DC converter
-	
+
 ANSWER: W) A GENERATION STATION
 
 20)
@@ -180,7 +180,7 @@ MC: (BONUS) Fuel cells work in which of the following ways?
 	X) By processing plant matter to generate electricity
 	Y) By converting thermal energy into electrical energy
 	Z) By using fossil fuels to generate mechanical energy
-	
+
 ANSWER: W) BY CONVERTING CHEMICAL ENERGY INTO ELECTRICAL ENERGY
 
 21)
@@ -196,7 +196,7 @@ MC: (BONUS) Which of the following is a characteristic of appliances labeled und
 	X) They consume 20-30% less energy than required by federal standards
 	Y) They convert 30% of the electrical energy into mechanical energy
 	Z) They have an energy loss of around 20-30%
-	
+
 ANSWER: X) THEY CONSUME 20-30% LESS ENERGY THAN REQUIRED BY FEDERAL
 
 23)
@@ -216,7 +216,7 @@ MC: (BONUS) Beside batteries, which of the following is another way to store ene
 	X) Tesla coils
 	Y) Ultra capacitors
 	Z) Fuel cells
-	
+
 ANSWER: Y) ULTRA CAPACITORS
 
 25)
@@ -226,7 +226,7 @@ MC: Which of the following statements best describes the importance of compostin
 	X) It helps to prevent air pollution
 	Y) It puts organic material back in the ground
 	Z) It prevents the decomposition of organic material
-	
+
 ANSWER: Y) IT PUTS ORGANIC MATERIAL BACK IN THE GROUND
 
 26)
@@ -236,7 +236,7 @@ MC: (BONUS) Of the following, which should NOT go into a compost pile?
 	X) Grass
 	Y) Dairy products
 	Z) Coffee grains
-	
+
 ANSWER: Y) DAIRY PRODUCTS
 
 27)
@@ -246,7 +246,7 @@ MC: Which of the following best describes an advantage of using an incinerator f
 	X) It reduces the volume of materials that go to landfills
 	Y) It allows waste products to be recycled
 	Z) If operated as permitted, it is not at all hazardous to plants, animals, and people
-	
+
 ANSWER: X) IT REDUCES THE VOLUME OF MATERIALS THAT GO TO LANDFILLS
 
 28)
@@ -262,7 +262,7 @@ MC: Which of the following classes of coal has the highest carbon content?
 	X) Bituminous [by-TOO-muh-nuhs]
 	Y) Lignite
 	Z) Peat
-	
+
 ANSWER: W) ANTHRACITE
 
 30)
@@ -272,7 +272,7 @@ MC: (BONUS) Approximately how long would a 100 watt bulb burn on the energy need
 	X) 5 hours
 	Y) 10 hours
 	Z) 100 hours
-	
+
 ANSWER: Y) 10 HOURS
 
 31)
@@ -282,7 +282,7 @@ MC: Which of the following does NOT represent a type of electromagnetic radiatio
 	X) Sound
 	Y) X-rays
 	Z) Infrared
-	
+
 ANSWER: X) SOUND
 
 32)
@@ -298,7 +298,7 @@ MC: In the U.S., the frequency of alternating current is which of the following 
 	X) 60
 	Y) 70
 	Z) 80
-	
+
 ANSWER: X) 60
 
 34)
@@ -314,7 +314,7 @@ MC: Most residential energy is used for which of the following?
 	X) Water heating
 	Y) Space heating
 	Z) Powering computers
-	
+
 ANSWER: Y) SPACE HEATING
 
 36)
@@ -324,7 +324,7 @@ MC: (BONUS) Cadmium and boron are used for control rods in a nuclear power plant
 	X) Deflect neutrons
 	Y) Absorb neutrons
 	Z) Exude neutrons
-	
+
 ANSWER: Y) ABSORB NEUTRONS
 
 37)
@@ -334,7 +334,7 @@ MC: The energy saved from recycling one aluminum can is enough to run a TV set f
 	X) 1 hour
 	Y) 2 hours
 	Z) 3 hours
-	
+
 ANSWER: Z) 3 HOURS
 
 38)
@@ -344,7 +344,7 @@ MC: (BONUS) To maximize the concentration of energy from the Sun, heliostats mus
 	X) Track the solar declination of the Sun
 	Y) Track the azimuth angle and the altitude of the Sun
 	Z) Keep the panel facing up at all times
-	
+
 ANSWER: Y) TRACK THE AZIMUTH ANGLE AND THE ALTITUDE OF THE SUN STANDARDS FOR CRITICAL NEEDS IN THE ELECTRICAL GRID
 
 39)
@@ -354,7 +354,7 @@ MC: Which of the following types of wind turbine will produce the most power?
 	X) Tilted axis
 	Y) Vertical axis
 	Z) Horizontal axis
-	
+
 ANSWER: Z) HORIZONTAL AXIS
 
 40)
@@ -365,7 +365,7 @@ ANSWER: 42.9
 
 41)
 
-MC: At least how many seismograph stations are needed to locate the epicenter of an earthquake?
+SA: At least how many seismograph stations are needed to locate the epicenter of an earthquake?
 
 ANSWER: THREE
 
@@ -376,7 +376,7 @@ MC: (BONUS) A falling leaf eventually stops accelerating towards Earth because o
 	X) Kinetic only
 	Y) Thermal only
 	Z) Kinetic and thermal
-	
+
 ANSWER: Y) THERMAL ONLY
 
 43)
@@ -392,7 +392,7 @@ MC: (BONUS) Which of the following rock types would most likely be the best oil 
 	X) Basalt
 	Y) Shale
 	Z) Sandstone
-	
+
 ANSWER: Z) SANDSTONE
 
 45)
@@ -402,7 +402,7 @@ MC: Which of the following types of friction are you experiencing as you push a 
 	X) Kinetic
 	Y) Negative
 	Z) Static
-	
+
 ANSWER: X) KINETIC
 
 46)
@@ -418,7 +418,7 @@ MC: Geothermal heat pumps take advantage of which of the following?
 	X) Temperature differences in the underground water layers
 	Y) Temperature difference between groundwater and the ground
 	Z) Temperature differences between the ground and buildings
-	
+
 ANSWER: Z) TEMPERATURE DIFFERENCES BETWEEN THE GROUND AND BUILDINGS
 
 48)
@@ -428,7 +428,7 @@ MC: (BONUS) Which of the following is the effect of reactive power on the effici
 	X) It increases efficiency by about 30%
 	Y) The efficiency remains unaffected
 	Z) The efficiency is maximized
-	
+
 ANSWER: W) IT REDUCES EFFICIENCY
 
 49)
@@ -438,7 +438,7 @@ MC: Hydroelectric energy accounts for which of the following approximate proport
 	X) 8%
 	Y) 30%
 	Z) 65%
-	
+
 ANSWER: X) 8%
 
 50)

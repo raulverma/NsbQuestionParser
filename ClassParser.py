@@ -92,9 +92,16 @@ def main():
     Biology.Parse()
 
     filePath = os.path.join(currentPath, 'Chemistry.txt')
+    print(filePath)
 
     Chemistry = QuestionParser(filePath, "Physical Science")
     Chemistry.Parse()
-    
+
+    filePath = os.path.join(currentPath, 'Energy.txt')
+    print(filePath)
+
+    Energy = QuestionParser(filePath, "Energy")
+    Energy.Parse()
+
 if __name__ == '__main__':
     main()
