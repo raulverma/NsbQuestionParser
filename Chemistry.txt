@@ -1,0 +1,400 @@
+
+1)
+
+MC: The element least likely to be found in an organic compound is 
+	W) oxygen
+	X) Sulfur
+	Y) Nitrogen
+	Z) Silicon
+
+Answer: Z
+
+2)
+
+MC: Which of the following is not a characteristic of organic compounds? 
+	W) They usually have low melting points. 
+	X) They usually are only slightly soluble or insoluble in water. 
+	Y) If water soluble they seldom conduct an electric current. 
+	Z) Bonds which bind the atoms together are nearly always ionic. 
+
+Answer: Z
+
+3)
+
+MC: An aqueous solution in which the concentration of OH– ions is greater than that of H+ ions is:
+	W) basic
+	X) acidic
+	Y) neutral
+	Z) in equilibrium
+	
+ANSWER: W) BASIC
+
+4)
+
+MC: Which of the following cannot be classified within the classical three states of matter?
+	W) Gasoline
+	X) Liquid nitrogen
+	Y) Bleach
+	Z) Liquid crystal
+	
+ANSWER: Z) LIQUID CRYSTAL
+
+5)
+
+SA: What general type of bonding is found in molecules in which electrons are shared by nuclei?
+
+ANSWER: COVALENT
+
+6)
+
+SA: In general, metals are relatively hard except for what group of metals in the Periodic Table?
+
+ANSWER: ONE (ACCEPT: GROUP 1A or ALKALI METALS)
+
+7)
+
+MC: Which of the following is an example of a compound?
+	W) O2
+	X) O3
+	Y) HCl
+	Z) Cl2
+	
+ANSWER: Y) HCl
+
+8)
+
+MC: Which of the following properties is NOT a property of a covalent molecular compound?
+	W) Low melting point
+	X) Low boiling point
+	Y) Good electrical conductivity
+	Z) Poor thermal conductivity
+	
+ANSWER: Y) GOOD ELECTRICAL CONDUCTIVITY
+
+9)
+
+In the chemical formula for ammonia, NH3, which of the following does the subscript 3 represent?
+	W) The number of hydrogen atoms in each molecule of ammonia
+	X) The number of nitrogen atoms in each molecule of ammonia
+	Y) The number of nitrogen and hydrogen atoms in each molecule of ammonia
+	Z) The number of ammonia molecules that will bond together
+	
+ANSWER: W) THE NUMBER OF HYDROGEN ATOMS IN EACH MOLECULE OF AMMONIA
+
+10)
+
+SA: Providing your answer in scientific notation with the correct number of significant digits, what is the sum of 1.2 X 10-3 and 2.7 X 10-4?
+
+ANSWER: 1.5 X 10-3
+
+11)
+
+SA: According to standard chemical nomenclature and indicating the proper charge, what is the formula for hydrogen sulfide?
+
+ANSWER: H2S
+
+12)
+
+SA: Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K+; Na+; Rb+; Li+
+
+ANSWER: LARGEST = Rb+; SMALLEST = Li+ (ACCEPT: RUBIDIUM AND LITHIUM)
+
+13)
+
+MC: Which of the following is a metallic element, composes about 5% of the Earth’s crust, oxidizes very easily, and when pure is a dark, silver-grey metal:
+	W) cobalt
+	X) nickel
+	Y) iron
+	Z) titanium
+	
+ANSWER: Y) IRON
+
+14)
+
+SA: What is the rule that states that main-group elements tend to undergo reactions that leave them with 8 outer-shell electrons?
+
+ANSWER: OCTET RULE 
+
+15)
+
+MC: Which of the following atomic features is the most important in controlling the reactivity of an atom:
+	W) core electrons
+	X) valence-shell electrons
+	Y) protons
+	Z) neutrons
+	
+ANSWER: X) VALENCE-SHELL ELECTRONS 
+
+16)
+
+SA: Which element has the lowest ionization energy of all stable neutral atoms?
+
+ANSWER: CESIUM (ACCEPT: CS) 
+
+17)
+
+SA: What is the molecular formula for magnesium chloride?
+
+ANSWER: MgCl2
+
+18)
+
+SA: That no two electrons in an atom can have an identical set of quantum numbers is best known as what principle?
+
+ANSWER: PAULI EXCLUSION PRINCIPLE (ACCEPT: EXCLUSION PRINCIPLE) 
+
+19)
+
+SA: What is the name of the element with the symbol Sb?
+
+ANSWER: ANTIMONY 
+
+20)
+
+MC: Which of the following is the pH of a substance with a hydronium concentration of 1 × 10-13 moles per liter?
+	W) -13
+	X) 5
+	Y) 9
+	Z) 13
+	
+ANSWER: Z) 13
+
+21)
+
+MC: Which of the following kinds of solutions is a mixture in which the solvent has dissolved all the solute it can at a given temperature?
+	W) Saturated
+	X) Unsaturated
+	Y) Supersaturated
+	Z) Concentrated
+	
+ANSWER: W) SATURATED
+
+22)
+
+MC: When calculating the equilibrium constant for a reaction, the concentration of which of the following is generally included?
+	W) Pure liquids
+	X) Pure solids
+	Y) Solvents
+	Z) Solutes
+	
+ANSWER: Z) SOLUTES
+
+23)
+
+MC: In stable organic compounds, carbon will always form 
+	W) 2 bonds  
+	X) 4 bonds  
+	Y) 3 bonds  
+	Z) 5 bonds 
+
+Answer: X
+
+24)
+
+MC: The First Law of Thermodynamics equates:
+	W) velocity and pressure
+	X) entropy and energy
+	Y) heat and work
+	Z) temperature and energy
+	
+ANSWER: Y) HEAT AND WORK 
+
+25)
+
+SA: What is the name for the individual repeating units of polymers?
+
+ANSWER: MONOMERS
+
+26)
+
+SA: Identify by number all of the following that are related to the origin of the name of the Large Hadron Collider (LHC) located at CERN: 1) composite particles made from quarks, 2) particle beams of protons that the LHC was built to collide, 3) lead nuclei that the LHC was built to collide, 4) a famous physicist.
+
+ANSWER: 1, 2 AND 3
+
+27)
+
+SA: A substance with a pH of 2 has what pOH?
+
+ANSWER: 12
+
+28)
+
+MC: Should oxygen-17 undergo alpha decay, the resulting atom would have which of the following masses in amu?
+	W) 11
+	X) 13
+	Y) 15
+	Z) 17
+	
+ANSWER: X) 13
+
+29)
+
+SA: Acid rain, a major environmental problem, results primarily from the production of what aqueous acid?
+
+ANSWER: SULFURIC ACID (ACCEPT: H2SO4) 
+
+30)
+
+MC: A material with which of the following specific heats in joules per kilogram Kelvin will require the least heat to change its temperature?
+	W) 10
+	X) 50
+	Y) 100
+	Z) 1000
+	
+ANSWER: W) 10 
+
+31)
+
+SA: What is the density in grams per cubic centimeter of a substance that has a mass of 50 grams and a volume of 10 cubic centimeters?
+
+ANSWER: 5
+
+32)
+
+SA: If calcium were to combine with bromine to form a neutral molecule, what is the least number of calcium and bromine atoms, respectively, that would be required?
+
+ANSWER: CALCIUM = 1; BROMINE = 2
+
+33)
+
+SA: Which acid-base theory states that any molecule or ion that can produce a proton is an acid, and any that can take up a proton is a base:
+
+ANSWER: BRØNSTED-LOWRY THEORY (ACCEPT: BRØNSTED)
+
+34)
+
+SA: What general chemical term best describes a metal that can be drawn out into thin wire or threads without breaking?
+
+ANSWER: DUCTILE 
+
+35)
+
+MC: Of the following, which is the strongest base:
+	W) potassium hydroxide
+	X) barium hydroxide
+	Y) calcium hydroxide
+	Z) sodium hydroxide
+	
+ANSWER: Z) SODIUM HYDROXIDE
+
+36)
+
+SA: In a flame test for lithium, sodium, potassium, and magnesium, which gives off a red color:
+
+ANSWER: LITHIUM 
+
+37)
+
+MC: Which of the following elements is a metalloid?
+	W) Silicon
+	X) Calcium
+	Y) Iron
+	Z) Argon
+
+ANSWER: W) SILICON
+
+38)
+
+MC: Which of the following statements is NOT true?
+	W) Stirring a solution will decrease the rate at which a solid solute dissolves
+	X) For most solid solutes, increasing the temperature of the solvent speeds up the dissolution rate
+	Y) Decreasing the surface area of the solute decreases the dissolution rate
+	Z) For a gaseous solute, cooling the solvent increases the dissolution rate
+	
+ANSWER: W) STIRRING A SOLUTION WILL DECREASE THE RATE AT WHICH A SOLID SOLUTE DISSOLVES
+
+39)
+
+MC: Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy:
+	W) group 1A
+	X) group 2A
+	Y) group 7A
+	Z) group 8A
+	
+ANSWER: Y) GROUP 7A
+
+40)
+
+SA: What element is a corrosive, greenish-yellow gas, is widely used in the manufacturing of polymers such as Teflon, and is the 13th most abundant element in the Earth’s crust?
+
+ANSWER: FLUORINE (ACCEPT: F) 
+
+41)
+
+SA: What is the pH of a solution at 25°C that has a hydrogen ion concentration of 0.001?
+
+ANSWER: 3
+
+42)
+
+SA: Which 3 Noble gases undergo no chemical reactions and form no known compounds?
+
+ANSWER: HELIUM, NEON, ARGON (ACCEPT: He, Ne, Ar) 
+
+43)
+
+MC: The concentration of a solution expressed in the number of gram-equivalent weights of solute per liter of solution is called:
+	W) normality
+	X) molality
+	Y) equivalent weight
+	Z) molarity
+	
+ANSWER: W) NORMALITY
+
+44)
+
+MC: Which of the following pure substances has the highest melting point at 1 atmosphere of pressure:
+	W) magnesium oxide
+	X) diamond
+	Y) sodium chloride
+	Z) cesium chloride
+	
+ANSWER: X) DIAMOND
+
+45)
+
+MC: Group 1 cations and group 7 anions combine to form:
+	W) metal alloys
+	X) alkali halides
+	Y) alkaloids
+	Z) organometallic compounds
+	
+ANSWER: X) ALKALI HALIDES
+
+46)
+
+SA: Give the chemical name for the compound formed when pure iron and pure sulfur are mixed together and heated:
+
+ANSWER: IRON SULFIDE (ACCEPT: IRON(II) SULFIDE or FERROUS SULFIDE)
+
+47)
+
+SA: On the periodic table, what is the name of the group of elements that includes lithium, potassium, cesium, and francium [FRAN-see-uhm]?
+
+ANSWER: ALKALI METALS (ALSO ACCEPT GROUP 1 OR GROUP 1A)
+
+48)
+
+MC: Which of the following statements best describes the properties of semiconductors?
+	W) They are more conductive than metals but less conductive than nonmetal insulators
+	X) Their conductivity is the same as metals
+	Y) Impurities make them less conductive than metals and nonmetals
+	Z) They are less conductive than metals but more conductive than insulators
+	
+ANSWER: Z) THEY ARE LESS CONDUCTIVE THAN METALS BUT MORE CONDUCTIVE THAN INSULATORS
+
+49)
+
+SA: In an electrochemical cell, at which electrode does oxidation occur?
+
+ANSWER: ANODE
+
+50)
+
+MC: A saturated aqueous solution of potassium chloride contains 34 grams of solute. Which of the following terms best describes an aqueous solution containing 30 grams of potassium chloride?
+	W) Nonpolar
+	X) Nonelectrolyte
+	Y) Supersaturated
+	Z) Unsaturated
+	
+ANSWER: Z) UNSATURATED
