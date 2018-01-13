@@ -79,7 +79,10 @@ class QuestionParser():
 def main():
     #print(len(sys.argv))
     #print(sys.argv[0])
-    filePath = r"C:\Users\raulv\OneDrive\SundayPractice\12312017\Biology.txt"
+    currentPath = os.getcwd()
+    filePath = os.path.join(currentPath, 'Biology.txt')
+    #print(filePath)
+    #filePath = r"C:\Users\raulv\OneDrive\SundayPractice\12312017\Biology.txt"
     if len(sys.argv) >= 2:
         filePath = sys.argv[1]
     if not os.path.isfile(filePath):
