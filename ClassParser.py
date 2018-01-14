@@ -77,6 +77,16 @@ class QuestionParser():
                 self.__parseSection__(line, qType)
 
 def main():
+    subjects = {
+        "Biology":"Life Science",
+        "Chemistry":"Physical Science",
+        "EarthScience":"Earth & Space Science",
+        "Energy":"Energy",
+        "Math":"Math",
+        "Physics":"Physical Science",
+        "SpaceScience":"Earth & Space Science"
+    }
+    print(subjects)
     #print(len(sys.argv))
     #print(sys.argv[0])
     currentPath = os.getcwd()
