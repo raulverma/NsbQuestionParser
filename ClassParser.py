@@ -1,13 +1,10 @@
-import sys
 import os
 import re
 import enum
-
 class QuestionType(enum.Enum):
     Undeinfed = 0
     singleAnswer = 1
     MultipleChoice = 2
-
 class QuestionParser():
     def __init__(self, filePath, subject):
         self.filePath = filePath
@@ -18,6 +15,7 @@ class QuestionParser():
         self.lineCount = 0
         self.MultipleChoiceCount = 0
         self.SingleAnswer = 0
+        self.QuestionPointer = 0
     def __parseSection__(self, text, qType ):
         #print("{} {}:{}:{}".format(qType, self.lineCount, self.currentSectionLine, text))
         if (qType == QuestionType.MultipleChoice):
@@ -53,11 +51,15 @@ class QuestionParser():
                 qType = QuestionType.singleAnswer
                 self.SingleAnswer += 1
             self.__parseSection__(line, qType)
-
+    def getNextQuestion(self):
+        if (len(self.questions) == 0):
+            return ""
+        else:
+            currentQuestion = questions[self.QuestionPointer]
+            self.QuestionPointer += 1
+            return currentQuestion
 def main():
-
     AllSubjects = []
-
     subjects = {
         "Biology":"Life Science",
         "Chemistry":"Physical Science",
@@ -67,9 +69,8 @@ def main():
         "Physics":"Physical Science",
         "SpaceScience":"Earth & Space Science"
     }
-
     currentPath = os.getcwd()
-
+    print(currentPath)
     for subject in subjects:
         filePath = os.path.join(currentPath, subject + '.txt')
         subjectType = subjects[subject]
@@ -80,7 +81,5 @@ def main():
             subjectQuestions = QuestionParser(filePath, subjectType)
             subjectQuestions.Parse()
             print("Line Count: {} ; Question Count: {}; MA: {} ; SA: {}".format(subjectQuestions.lineCount, len(subjectQuestions.questions), subjectQuestions.MultipleChoiceCount, subjectQuestions.SingleAnswer))
-
-
 if __name__ == '__main__':
     main()
