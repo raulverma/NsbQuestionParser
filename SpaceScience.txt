@@ -1,0 +1,456 @@
+
+1)
+
+SA: What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?
+
+ANSWER: NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS)
+
+2)
+
+SA: What is the most well-known asterism in Ursa Major?
+
+ANSWER: BIG DIPPER
+
+3)
+
+SA: Where in space is Cassini's division?
+
+ANSWER: BETWEEN TWO RINGS OF SATURN
+
+4)
+
+SA: (BONUS) Who was the first black American astronaut in space?
+
+ANSWER: (GUION S.) BLUFORD
+
+5)
+
+SA: What is the Vostok 1?
+
+ANSWER: THE FIRST MANNED SPACECRAFT
+
+6)
+
+MC: (BONUS) Heliocentric (pron: he-lee-o-sen-trik) means around:
+	w) Jupiter
+	x) the Moon
+	y) the Sun
+	z) Neptune
+	
+ANSWER: Y -- THE SUN
+
+7)
+
+SA: Triton, Neptune's moon, has an ocean made of a liquid. What is this liquid?
+
+ANSWER: NITROGEN
+
+8)
+
+MC: (BONUS) Who was the first man to classify stars according to their brightness. Was it:
+	w) Aristarchus
+	x) Pythagorus
+	y) Copernicus
+	z) Hipparchus
+	
+ANSWER: Z -- HIPPARCHUS
+
+9)
+
+MC: For what reason was the Schmidt telescope specially built? Was it to serve as:
+	w) a sky camera
+	x) a radio telescope
+	y) an optical telescope
+	z) a solar telescope
+
+ANSWER: W -- A SKY CAMERA
+
+10)
+
+SA: (BONUS) What is the star nearest to the sun?
+
+ANSWER: ALPHA CENTAURI or PROXIMA CENTAURI
+
+11)
+
+MC: The greatest distance of a planet from the sun is called what? Is it the planet's:
+	w) aphelion (pron: ah-feel-yen)
+	x) perihelion (pron: per-eh-heel-yen)
+	y) helix
+	z) eccentricity
+	
+ANSWER: W -- APHELION
+
+12)
+
+SA: (BONUS) What is the name given to very bright meteors or bolides?
+
+ANSWER: FIREBALLS
+
+13)
+
+MC: How is the atmospheric pressure of Mars as compared to the atmospheric pressure of the earth? Is it:
+	w) about the same as the earth's
+	x) about 100 times as great as the earth's
+	y) about 1/200th that of the earth's
+	z) half as much as that of the earth's
+
+ANSWER: Y -- ABOUT 1/200th THAT OF THE EARTH'S
+
+14)
+
+SA: (BONUS) What gas is the main component of the atmosphere of Mars?
+
+ANSWER: CARBON DIOXIDE
+
+15)
+
+SA: On one of the moon landings astronauts left an object on the moon. Scientists periodically bounce a laser beam off of this object to measure the distance between the earth and the moon. What is this object?
+
+ANSWER: MIRROR
+
+16)
+
+SA: (Bonus) What are Schmidt, Cassegrainian, and Galilean examples of?
+
+ANSWER: TELESCOPES
+
+17)
+
+MC: The comet known as Halley's Comet has an average period of:
+	w) 56 years
+	x) 66 years
+	y) 76 years
+	z) 86 years
+	
+ANSWER: Y -- 76 YEARS
+
+18)
+
+MC: (Bonus) Which one of the following planets has no moons?
+	w) Mars
+	x) Neptune
+	y) Venus
+	z) Jupiter
+	
+ANSWER: Y – VENUS
+
+19)
+
+MC: In kilometers, the earth's average distance from the sun is roughly which of the following distances?
+	w) 250 million
+	x) 91 million
+	y) 150 million
+	z) 350 million
+	
+ANSWER: Y -- 150 MILLION
+
+20)
+
+MC: (Bonus) The gravity on the moon is what fraction of the gravity on the earth?
+	w) 1/3
+	x) 2/3
+	y) 1/6
+	z) 1/10
+	
+ANSWER: Y -- 1/6
+
+21)
+
+MC: Refracting telescopes always contain which one of the following?
+	w) mirrors
+	x) lenses
+	y) television systems
+	z) film
+
+ANSWER: X -- LENSES
+
+22)
+
+MC: (Bonus) A comet's tail points in which direction?
+	w) toward the sun
+	x) toward the earth
+	y) behind the comet in its orbit
+	z) away from the sun
+
+ANSWER: Z -- AWAY FROM THE SUN
+
+23)
+
+MC: Spectral line splitting due to the influence of magnetic fields is called:
+	w) Boltzmann Effect
+	x) Zeeman Effect
+	y) Planck Effect
+	z) Zanstra's Effect
+
+ANSWER: X -- ZEEMAN EFFECT
+
+24)
+
+MC: (Bonus) Which of the following statements is true for BOTH Saturn and Jupiter?
+	w) both rotate faster than the Earth
+	x) both rotate slower than the Earth
+	y) only one rotates rapidly while the other rotates very slowly
+	z) their periods of rotation are linked to their period of revolution
+
+ANSWER: W -- BOTH ROTATE FASTER THAN THE EARTH
+
+25)
+
+MC: Which of the following is true for ORION? Orion is:
+	w) the brightest star in the sky
+	x) a constellation
+	y) the name given to a NASA spacecraft
+	z) an asteroid
+
+ANSWER: X -- A CONSTELLATION
+
+26)
+
+MC: (Bonus) Which of the following men wrote the book "On the Revolutions of the Heavenly Spheres"?
+	w) Kepler
+	x) Euclid
+	y) Copernicus
+	z) Newton
+
+ANSWER: Y -- COPERNICUS
+
+27)
+
+MC: Which of the following is TRUE for Retrograde motion? Retrograde motion is:
+	w) caused by epicycles
+	x) undergone only by superior planets
+	y) undergone only by inferior planets
+	z) an effect due to the projection of planet orbits onto the sky
+
+ANSWER: Z -- AN EFFECT DUE TO THE PROJECTION OF PLANET ORBITS ONTO THE SKY
+
+28)
+
+MC: (Bonus) Beads of light visible around the rim of the moon at the beginning and end of a total solar eclipse are called:
+	w) Lunar Beads
+	x) Solar Beads
+	y) Baily's Beads
+	z) Rim Beads
+
+ANSWER: Y -- BAILY'S BEADS
+
+29)
+
+MC: The 2.7 Kelvin cosmic background radiation is concentrated in the:
+	w) radio wavelengths
+	x) infrared
+	y) visible
+	z) ultraviolet
+
+ANSWER: W -- RADIO WAVELENGTHS
+
+30)
+
+MC: (Bonus) If you were watching a star collapsing to form a black hole, the light would disappear because it:
+	w) is strongly redshifted
+	x) is strongly blueshifted
+	y) its color suddenly becomes black
+	z) none of the above
+
+ANSWER: W -- IS STRONGLY REDSHIFTED
+
+31)
+
+MC: In which spectral region is it possible for astronomers to observe through clouds?
+	w) visual
+	x) radio
+	y) ultraviolet
+	z) x-ray
+
+ANSWER: X -- RADIO
+
+32)
+
+MC: (Bonus) The Magellanic Clouds are
+	w) irregular galaxies
+	x) spiral galaxies
+	y) elliptical galaxies
+	z) large clouds of gas and dust
+
+ANSWER: W -- IRREGULAR GALAXIES
+
+33)
+
+MC: The VISUAL aurora consists of luminous arcs, rays or bands in the night sky, usually confined to high latitudes and located in the:
+	w) troposphere
+	x) stratosphere
+	y) ozonosphere
+	z) ionosphere
+
+ANSWER: Z -- IONOSPHERE
+
+34)
+
+MC: (Bonus) This yellow-white, spectral F-type star is located in the constellation Carina south of the ecliptic. It ranks second in apparent brightness among the stars. Is this star:
+	w) Canopus
+	x) Alpha Centauri
+	y) Castor
+	z) Rigel
+
+ANSWER: W -- CANOPUS
+
+35)
+
+MC: When two heavenly bodies occupy the same longitude, the bodies are said to be in:
+	w) sympathy
+	x) conjunction
+	y) parallel
+	z) series
+
+ANSWER: X -- CONJUNCTION
+
+36)
+
+MC: (Bonus) The study of the origin and evolution of the universe is known as:
+	w) tomography
+	x) cystoscopy
+	y) cryology
+	z) cosmology
+
+ANSWER: D -- COSMOLOGY
+
+37)
+
+MC: What percentage of the Sun's mass has been converted to energy?
+	w) 50%
+	x) 1%
+	y) 2%
+	z) .001% (read: one-thousandth of a percent)
+
+ANSWER: Z -- .001%
+
+38)
+
+MC: (Bonus) According to Kepler's Laws, all orbits of the planets are:
+	w) ellipses
+	x) parabolas
+	y) hyperbolas
+	z) square
+
+ANSWER: W -- ELLIPSES
+
+39)
+
+MC: According to Kepler's Laws, the cube of the mean distance of a planet from the sun is proportional to the:
+	w) area that is swept out
+	x) cube of the period
+	y) square of the period
+	z) fourth power of the mean distance
+
+ANSWER: Y -- SQUARE OF THE PERIOD
+
+40)
+
+MC: (Bonus) What type of visible star is the coolest?
+	w) O (pron: oh)
+	x) A
+	y) G
+	z) M
+
+ANSWER: Z -- M
+
+41)
+
+MC: Which type of star is maintained by the pressure of an electron gas?
+	w) Main Sequence Star
+	x) White Dwarf
+	y) Neutron Star
+	z) Black Hole
+
+ANSWER: X -- WHITE DWARF
+
+42)
+
+MC: (Bonus) In our solar system, which planet has a moon with a mass closest to its own?
+	w) Earth
+	x) Mars
+	y) Jupiter
+	z) Pluto
+
+ANSWER: Z -- PLUTO
+
+43)
+
+MC: Io, Europa, Ganymede and Callisto are satellites of what planet?
+	w) Jupiter
+	x) Saturn
+	y) Neptune
+	z) Uranus
+
+ANSWER: W -- JUPITER
+
+44)
+
+MC: (Bonus) The universe is estimated to be between ten and twenty billion years old. This estimate is based on the value of which constant?
+	w) The mass of the Earth
+	x) The speed of light
+	y) The Hubble Constant
+	z) The mass of the electron
+
+ANSWER: Y -- THE HUBBLE CONSTANT
+
+45)
+
+MC: Which of the following first hypothesized that the Earth orbited the sun?
+	w) Alexander the Great
+	x) Copernicus
+	y) Socrates
+	z) Tycho Brahe
+
+ANSWER: X -- COPERNICUS
+
+46)
+
+MC: (Bonus) The LAST manned moon flight was made in what year?
+	w) 1971
+	x) 1972
+	y) 1973
+	z) 1974
+
+ANSWER: X -- 1972
+
+47)
+
+MC: The cosmic background radiation, a remnant of the Big Bang, is at what temperature?
+	w) 100K
+	x) 0K
+	y) 5.3K
+	z) 2.7K
+
+ANSWER: Z -- 2.7K
+
+48)
+
+MC: (Bonus) A planet is said to be at aphelion when it is:
+	w) closest to the sun
+	x) farthest from the sun
+	y) at it's highest point above the ecliptic
+	z) at it's lowest point below the ecliptic
+
+ANSWER: X -- FARTHEST FROM THE SUN
+
+49)
+
+MC: At any time we may describe the position of an inferior planet by the angle it makes with the sun as seen from the earth. This angle is called the:
+	w) ecliptic (pron: eh-klip-tik)
+	x) epicycle
+	y) elongation
+	z) proxima
+
+ANSWER: Y -- ELONGATION
+
+50)
+
+MC: (Bonus) Which of the following planets has the greatest eccentricity?
+	w) Pluto
+	x) Jupiter
+	y) Mars
+	z) Mercury
+
+ANSWER: W -- PLUTO

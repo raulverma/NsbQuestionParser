@@ -92,13 +92,14 @@ def main():
 
     currentPath = os.getcwd()
 
-    for key, value in subjects.item():
-        filePath = os.path.join(currentPath, key + '.txt')
+    for subject in subjects:
+        filePath = os.path.join(currentPath, subject + '.txt')
+        subjectType = subjects[subject]
         if not os.path.isfile(filePath):
             print("File not found: {}".format(filePath))
         else:
-            subject = QuestionParser(filePath, value)
-            subject.Parse()
+            subjectQuestions = QuestionParser(filePath, subjectType)
+            subjectQuestions.Parse()
 
 
 

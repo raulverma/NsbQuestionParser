@@ -1,0 +1,364 @@
+
+1)
+
+SA: Radon is primarily produced naturally on Earth most directly from the decay of what element?
+
+ANSWER: RADIUM
+
+2) 
+
+SA: If the intensity of a sound is 10,000 times as loud as another sound, by how many decibels do the two sounds differ?
+
+ANSWER: 40
+
+3)
+
+MC: Which of the following best describes the concept upon which Kirchhoff’s current law or first law is based:
+	W) charges come in unit dimensions
+	X) all charges flow from the negative to the positive
+	Y) charge can neither be created nor destroyed
+	Z) what goes up must come down
+	
+ANSWER: Y) CHARGE CAN NEITHER BE CREATED NOR DESTROYED
+
+4)
+
+SA: Give by name or number all of the following 4 choices that would be considered units of electrical power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs
+
+ANSWER: 1; 2; 3
+
+5)
+
+SA: What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy?
+
+ANSWER: CAPACITOR
+
+6)
+
+SA: What is the SI unit of capacitance equal to one coulomb per volt?
+
+ANSWER: FARAD
+
+7)
+
+SA: What is the common term for the force of gravity that is exerted on an object?
+
+ANSWER: WEIGHT
+
+8)
+
+SA: What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run?
+
+ANSWER: 180 OHMS
+
+9)
+
+MC: Which of the following colors of light has the greatest angle of refraction in normal glass:
+	W) yellow
+	X) green
+	Y) orange
+	Z) blue
+	
+ANSWER: Z) BLUE
+
+10)
+
+SA: What metric unit is most appropriate for weight?
+
+ANSWER: NEWTON
+
+11)
+
+SA: What property of a wave is generally said to increase during constructive interference?
+
+ANSWER: AMPLITUDE
+
+12)
+
+SA: What are the SI units for length and time?
+
+ANSWER: METER AND SECOND
+
+13)
+
+MC: Which of the following MOST directly determines the permittivity of a material:
+	W) ability of the material to magnetize
+	X) electrical susceptibility
+	Y) electrical insulation capacity
+	Z) electrical conductivity
+	
+ANSWER: X) ELECTRICAL SUSCEPTIBILITY
+
+14)
+
+SA: What are the SI units for permittivity?
+
+ANSWER: FARADS PER METER
+
+15)
+
+SA: What is the most common scientific term for a change in velocity over time?
+
+ANSWER: ACCELERATION
+
+16)
+
+SA: What is the mass, in grams, of a 1 kilogram object on a planet with a gravitational force of 3 meters per second squared?
+
+ANSWER: 1,000
+
+17)
+
+SA: How much work is done in holding a steel block in place by applying a force of 800 newtons for 5 seconds?
+
+ANSWER: ???
+
+18)
+
+SA: What is the ideal mechanical advantage of a single fixed pulley?
+
+ANSWER: 1
+
+19)
+
+MC: In a modern optimally functioning internal combustion engine, most of the energy is lost as:
+	W) heat
+	X) unburnt fuel
+	Y) CO2
+	Z) carbon monoxide
+	
+ANSWER: W) HEAT
+
+20)
+
+MC: Which of the following statements is LEAST accurate regarding states of matter:
+	W) solids when heated typically expand
+	X) gases can be made of a single element
+	Y) matter on Earth is never in a plasma state
+	Z) gases condense to form liquids
+	
+ANSWER: Y) MATTER ON EARTH IS NEVER IN A PLASMA STATE
+
+21)
+
+SA: What are the most common SI units used for the acceleration of an object?
+
+ANSWER: METERS PER SECOND SQUARED
+
+22)
+
+SA: Neglecting friction, what is the acceleration, in meters per second squared, of a 20-kilogram iron block across a horizontal surface if 700 newtons is applied to the block?
+
+ANSWER: 35
+
+23)
+
+SA: What is the mass, in grams, of 1 cubic centimeter of water at standard temperature and pressure?
+
+ANSWER: 1
+
+24)
+
+MC: Which of the following would MOST likely occur to a sample of water if it underwent an increase in atmospheric pressure from 1 atmosphere to 5 atmospheres:
+	W) its mass would increase and its temperature would rise by about 5ºC
+	X) its mass would increase and its volume would decrease by about 5%
+	Y) its mass would decrease and its volume would decrease by about 25%
+	Z) its mass would remain the same and its volume would remain the same
+	
+ANSWER: Z) ITS MASS WOULD REMAIN THE SAME AND ITS VOLUME WOULD REMAIN THE SAME
+
+25)
+
+SA: What is the most common term used to describe why astronauts orbiting the Earth experience apparent weightlessness?
+
+ANSWER: FREE FALL
+
+26)
+
+SA: What is the most common term for the maximum downward speed an object can attain, considering air resistance, when it is in free fall from a few miles up in the atmosphere?
+
+ANSWER: TERMINAL VELOCITY
+
+27)
+
+MC: Potential energy is most synonymous with:
+	W) kinetic energy
+	X) mechanical energy
+	Y) work energy
+	Z) stored energy
+	
+ANSWER: Z) STORED ENERGY
+
+28)
+
+MC: Which of the following BEST describes how and why electrical resistance is related to temperature:
+	W) as temperature increases, resistance decreases because electrons move faster
+	X) as temperature increases, resistance decreases because electrons are lost from the conductor
+	Y) as temperature increases, resistance increases because protons move faster
+	Z) as temperature increases, resistance increases because atoms vibrate more, increasing electron scattering
+
+ANSWER: Z) AS TEMPERATURE INCREASES, RESISTANCE INCREASES BECAUSE ATOMS VIBRATE MORE, INCREASING ELECTRON SCATTERING
+
+29)
+
+SA: What is the ideal mechanical advantage of a lever where the effort force is one-quarter that needed to lift a resistance force?
+
+ANSWER: 4
+
+30)
+
+SA: What is the frequency of a 50-hertz wave, in cycles per second, if the wave has an amplitude of 2 meters
+
+ANSWER: 50
+
+31)
+
+MC: Doing a given amount of work at different rates always involves a different amount of:
+	W) mass
+	X) efficiency
+	Y) potential energy
+	Z) power
+	
+ANSWER: Z) POWER
+
+32)
+
+SA: If a force of 200 newtons is required to accelerate an object at 25 meters per second squared on a horizontal frictionless surface, what is the mass of the object, in grams?
+
+ANSWER: 8,000 
+
+33)
+
+SA: Of the 4 states of matter, which one is the most common in the universe?
+
+ANSWER: PLASMA
+
+34) 
+
+MC: Which of the following is the scientific term for the energy needed to transform a given quantity of a substance from a liquid to a gas at standard pressure:
+	W) heat of boiling
+	X) heat of fusion
+	Y) heat of transition
+	Z) heat of vaporization
+	
+ANSWER: Z) HEAT OF VAPORIZATION
+
+35)
+
+SA: How many neutrons does the most common isotope of hydrogen have?
+
+ANSWER: ZERO
+
+36)
+
+SA: If 200 coulombs pass through a wire in 0.5 seconds, what is the average current, in amps, passing through the wire?
+
+ANSWER: 400 
+
+37)
+
+SA: Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes. In what direction would a physicist MOST likely record her acceleration?
+
+ANSWER: SOUTH
+
+38)
+
+MC: Two bulbs marked 200 watt-250 volts and 100 watt-250 volts are joined in series to 250 volts supply. Power consumed in circuit is
+	W) 33 watt
+	X) 67 watt
+	Y) 100 watt
+	Z) 300 watt.
+
+Answer: X
+
+39)
+
+MC: Real images formed by single convex lenses are always
+	W) on the same side of the lens as the object
+	X) inverted
+	Y) erect
+	Z) smaller than the object
+	
+Answer: X
+
+40)
+
+SA: Name all of the following 4 choices that would typically be considered to supply electromotive force: transformers; generators; batteries; conductors
+
+ANSWER: TRANSFORMERS; GENERATORS; BATTERIES (ACCEPT: ALL BUT CONDUCTORS) 
+
+41)
+
+SA: The nucleus of what element is the same as an alpha particle?
+
+ANSWER: HELIUM
+
+42)
+
+SA: If a wave has a frequency of 500 hertz, what is its period, in seconds?
+
+ANSWER: 0.002 (ACCEPT: 2 × 10–3) (Solution: period = 1/f )
+
+43)
+
+MC: Which of the following BEST explains why gravitational acceleration on Earth varies from one place to another:
+	W) the Sun’s gravitational pull varies irregularly
+	X) the Earth is not a uniform sphere
+	Y) the Moon and the Sun exert a complex combination of gravitational pulls on the Earth
+	Z) the changing angular momentum of the Earth varies during its yearly orbit
+	
+ANSWER: X) THE EARTH IS NOT A UNIFORM SPHERE
+
+44)
+
+SA: Using g rounded to the first decimal place, how much does an 80-kilogram person weigh on Earth, giving your answer in proper SI units?
+
+ANSWER: 784 NEWTONS (must give units)
+
+45)
+
+MC: Which of the following is the part of an electric motor that functions as an electromagnet:
+	W) ballast
+	X) relay
+	Y) armature
+	Z) brushes
+	
+ANSWER: Y) ARMATURE
+
+46)
+
+SA: What are the frequencies of the first and second overtones, respectively, for a string vibrating at a fundamental frequency of 440 hertz?
+
+ANSWER: FIRST = 880; SECOND = 1320
+
+47)
+
+MC: A boat’s velocity has a northward velocity component of 15 kilometers per hour and an eastward component of 10 kilometers per hour. Which of the following BEST represents the direction of the boat’s motion:
+	W) 35 kilometers per hour northeast
+	X) 35 kilometers per hour southwest
+	Y) 18 kilometers per hour northeast
+	Z) 12 kilometers per hour northeast
+	
+ANSWER: Y) 18 KILOMETERS PER HOUR NORTHEAST
+
+48)
+
+SA: Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons. What is the acceleration of the box, giving your answer in standard SI units, if friction is neglected?
+
+ANSWER: 50 METERS PER SECOND SQUARED (ACCEPT: 50 METERS PER SECOND PER SECOND) (Solution: A = F/M; A = 500/10; A = 50m/sec2)
+
+49)
+
+MC: The image produced by a concave lens is 
+	W) always virtual and enlarged
+	X) always virtual and reduced in size
+	Y) always real
+	Z) sometimes real, sometimes virtual
+	
+Answer: X
+
+50)
+
+SA: How many joules are in a single watt-hour?
+
+ANSWER: 3,600 (Solution: (1 joule per second)(60 sec)(60 minutes) = 3600 J)
