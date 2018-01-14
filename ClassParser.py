@@ -9,7 +9,6 @@ class QuestionType(enum.Enum):
     MultipleChoice = 2
 
 class QuestionParser():
-
     def __init__(self, filePath, subject):
         self.filePath = filePath
         self.subject = subject
@@ -19,30 +18,8 @@ class QuestionParser():
         self.lineCount = 0
         self.MultipleChoiceCount = 0
         self.SingleAnswer = 0
-    def __parseMultipleChoice__(self, text):
-        #print("multipe choice {}:{}:{}".format(self.lineCount, self.currentSectionLine, text))
-        if self.currentSectionLine >= 3 and self.currentSectionLine <= 10:
-            self.questionText += (text + os.linesep)
-        if self.currentSectionLine == 10 and (not (re.match('^Answer', text))):
-            #print("text:{}".format(line))
-            print("Error {}:{} : {}".format(self.lineCount, self.currentSectionLine, text))
-        if self.currentSectionLine == 11:
-            self.currentSectionLine = 1
-            self.questions.append(self.questionText)
-            self.questionText = ""
-    def __parseSingleAnswer__(self, text):
-        #print("single answer {}:{}:{}".format(self.lineCount, self.currentSectionLine, text))
-        if self.currentSectionLine >= 3 and self.currentSectionLine <= 6:
-            self.questionText += (text + os.linesep)
-        if self.currentSectionLine == 6 and (not (re.match('^Answer', text))):
-            #print("text:{}".format(text))
-            print("Error {}:{} : {}".format(self.lineCount, self.currentSectionLine, text))
-        if self.currentSectionLine == 7:
-            self.currentSectionLine = 1
-            self.questions.append(self.questionText)
-            self.questionText = ""
     def __parseSection__(self, text, qType ):
-        # print("{} {}:{}:{}".format(qType, self.lineCount, self.currentSectionLine, text))
+        #print("{} {}:{}:{}".format(qType, self.lineCount, self.currentSectionLine, text))
         if (qType == QuestionType.MultipleChoice):
             startSection = 3
             endSection = 10
@@ -55,26 +32,27 @@ class QuestionParser():
             print("text:{}".format(text))
             print("Error {}:{} : {}".format(self.lineCount, self.currentSectionLine, text))
         if self.currentSectionLine == (endSection + 1):
-            # print("{},{}".format(self.currentSectionLine, endSection+1))
+            #print("{},{}".format(self.currentSectionLine, endSection+1))
             self.currentSectionLine = 1
             self.questions.append(self.questionText)
             self.questionText = ""
-
     def Parse(self):
-        with open(self.filePath) as file:
-            self.lineCount = 0
-            self.currentSectionLine = 0
-            qType = QuestionType.MultipleChoice # Assuming first question is a multiple choice question instead of undefined
-            for line in file:
-                self.lineCount += 1
-                self.currentSectionLine += 1
-                if re.match('MC:\s*', line):
-                    qType = QuestionType.MultipleChoice
-                    self.MultipleChoiceCount += 1
-                if re.match('SA:\s*', line):
-                    qType = QuestionType.singleAnswer
-                    self.SingleAnswer += 1
-                self.__parseSection__(line, qType)
+        file = open(self.filePath, 'r')
+        # with open(self.filePath) as file:
+        self.lineCount = 0
+        self.currentSectionLine = 0
+        qType = QuestionType.MultipleChoice # Assuming first question is a multiple choice question instead of undefined
+
+        for line in file:
+            self.lineCount += 1
+            self.currentSectionLine += 1
+            if re.match('MC:\s*', line):
+                qType = QuestionType.MultipleChoice
+                self.MultipleChoiceCount += 1
+            if re.match('SA:\s*', line):
+                qType = QuestionType.singleAnswer
+                self.SingleAnswer += 1
+            self.__parseSection__(line, qType)
 
 def main():
 
@@ -98,9 +76,10 @@ def main():
         if not os.path.isfile(filePath):
             print("File not found: {}".format(filePath))
         else:
+            print("Processing file {}".format(filePath))
             subjectQuestions = QuestionParser(filePath, subjectType)
             subjectQuestions.Parse()
-
+            print("Line Count: {} ; Question Count: {}; MA: {} ; SA: {}".format(subjectQuestions.lineCount, len(subjectQuestions.questions), subjectQuestions.MultipleChoiceCount, subjectQuestions.SingleAnswer))
 
 
 if __name__ == '__main__':

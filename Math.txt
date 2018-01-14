@@ -113,7 +113,7 @@ ANSWER: 60 degrees
 
 17)
 
-SA: Solve for v: v2 – 2v – 35 = 0.
+SA: Solve for v: v2 � 2v � 35 = 0.
 
 ANSWER: 7, -5
 
@@ -137,15 +137,15 @@ ANSWER: 4
 
 21)
 
-SA: Solve the following system of two equations: 7x + 2y = -6 and -14x – 4y = -2.
+SA: Solve the following system of two equations: 7x + 2y = -6 and -14x � 4y = -2.
 
 ANSWER: NO SOLUTION (ACCEPT: NULL SET, EMPTY SET)
 
 22)
 
-SA: What is −5 sqrt(3) − 3 sqrt(3)?
+SA: What is -5 sqrt(3) - 3 sqrt(3)?
 
-ANSWER: −8 sqrt(3)
+ANSWER: -8 sqrt(3)
 
 23)
 
@@ -167,7 +167,7 @@ ANSWER: UNDEFINED
 
 26)
 
-MC: Between which of the following two whole numbers does √515 3 [the cube root of 515] fall?
+MC: Between which of the following two whole numbers does v515 3 [the cube root of 515] fall?
 	W) 5 and 6
 	X) 6 and 7
 	Y) 7 and 8
@@ -183,7 +183,7 @@ ANSWER: 20.55, 20 11/20, 2055%
 
 28)
 
-MC: For positive values of x, the function f(x) = (x^6 − x^3)/x^2 [the fraction with numerator x to the sixth minus x cubed and denominator x squared] is which of the following types?
+MC: For positive values of x, the function f(x) = (x^6 - x^3)/x^2 [the fraction with numerator x to the sixth minus x cubed and denominator x squared] is which of the following types?
 	W) Quartic
 	X) Cubic
 	Y) Hyperbolic
@@ -221,7 +221,7 @@ ANSWER: 5%
 
 33)
 
-SA: Providing your answer in terms of pi and in centimeters, what is the circumference of a circular disk whose area is 100π square centimeters?
+SA: Providing your answer in terms of pi and in centimeters, what is the circumference of a circular disk whose area is 100p square centimeters?
 
 ANSWER: 20 pi
 
@@ -267,13 +267,13 @@ ANSWER: UNDEFINED (ACCEPT: NO SLOPE)
 
 40)
 
-SA: Consider the following equation: 𝑦 = (24x − 36)/x^2 [y equals open parenthesis 24 x minus 36 close parenthesis over x squared]. When y = 3, what are the possible values for x?
+SA: Consider the following equation: ?? = (24x - 36)/x^2 [y equals open parenthesis 24 x minus 36 close parenthesis over x squared]. When y = 3, what are the possible values for x?
 
 ANSWER: 6 AND 2
 
 41)
 
-SA: When sketching the line y = 10x − 10, the line will go through which quadrants?
+SA: When sketching the line y = 10x - 10, the line will go through which quadrants?
 
 ANSWER: I, III, AND IV (ACCEPT: FIRST, THIRD, AND FOURTH)
 
@@ -281,7 +281,7 @@ ANSWER: I, III, AND IV (ACCEPT: FIRST, THIRD, AND FOURTH)
 
 SA: What is the slope intercept form of the equation for the line that is perpendicular to y = 5(x + 66) [y equals 5 times the quantity x plus 66] and has a y intercept of 0.7?
 
-ANSWER: y = −1/5 x + 0.7 (ACCEPT: y = −0.2x + 0.7; DO NOT ACCEPT y = -x/5 + 0.7)
+ANSWER: y = -1/5 x + 0.7 (ACCEPT: y = -0.2x + 0.7; DO NOT ACCEPT y = -x/5 + 0.7)
 
 43)
 
@@ -295,7 +295,7 @@ ANSWER: X) ELLIPSE
 
 44)
 
-SA: Eight National Science Bowl contestants meet for the first time. Each shakes the hand of the other seven, except for one pair of contestants who refuse to shake each other’s hands. How many handshakes are exchanged?
+SA: Eight National Science Bowl contestants meet for the first time. Each shakes the hand of the other seven, except for one pair of contestants who refuse to shake each other�s hands. How many handshakes are exchanged?
 
 ANSWER: 27
 
