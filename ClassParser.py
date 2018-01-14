@@ -77,6 +77,9 @@ class QuestionParser():
                 self.__parseSection__(line, qType)
 
 def main():
+
+    AllSubjects = []
+
     subjects = {
         "Biology":"Life Science",
         "Chemistry":"Physical Science",
@@ -86,32 +89,18 @@ def main():
         "Physics":"Physical Science",
         "SpaceScience":"Earth & Space Science"
     }
-    print(subjects)
-    #print(len(sys.argv))
-    #print(sys.argv[0])
+
     currentPath = os.getcwd()
-    filePath = os.path.join(currentPath, 'Biology.txt')
-    print(filePath)
-    #filePath = r"C:\Users\raulv\OneDrive\SundayPractice\12312017\Biology.txt"
-    if len(sys.argv) >= 2:
-        filePath = sys.argv[1]
-    if not os.path.isfile(filePath):
-        print("File not found: {} using default".format(filePath))
 
-    Biology = QuestionParser(filePath, "Life Science")
-    Biology.Parse()
+    for key, value in subjects.item():
+        filePath = os.path.join(currentPath, key + '.txt')
+        if not os.path.isfile(filePath):
+            print("File not found: {}".format(filePath))
+        else:
+            subject = QuestionParser(filePath, value)
+            subject.Parse()
 
-    filePath = os.path.join(currentPath, 'Chemistry.txt')
-    print(filePath)
 
-    Chemistry = QuestionParser(filePath, "Physical Science")
-    Chemistry.Parse()
-
-    filePath = os.path.join(currentPath, 'Energy.txt')
-    print(filePath)
-
-    Energy = QuestionParser(filePath, "Energy")
-    Energy.Parse()
 
 if __name__ == '__main__':
     main()
