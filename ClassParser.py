@@ -57,10 +57,12 @@ class QuestionParser():
         else:
             currentQuestion = self.questions[self.QuestionPointer]
             self.QuestionPointer += 1
-            return re.sub('MC:|SA:', '', currentQuestion, re.M)
+            return currentQuestion
+            # return re.sub('MC:|SA:', '', currentQuestion, re.M)
 
 def main():
     subjectList = ["Biology", "Chemistry", "EarthScience", "Energy", "Math", "Physics", "SpaceScience"]
+    subjectQuestionList = []
     AllSubjects = []
     subjects = {
         "Biology":"Life Science",
@@ -83,9 +85,10 @@ def main():
             subjectQuestions = QuestionParser(filePath, subjectType)
             subjectQuestions.Parse()
             print("Line Count: {} ; Question Count: {}; MA: {} ; SA: {}".format(subjectQuestions.lineCount, len(subjectQuestions.questions), subjectQuestions.MultipleChoiceCount, subjectQuestions.SingleAnswer))
-            for i in range(5):
-                print(subjectQuestions.getNextQuestion())
-            print(subjectQuestions.QuestionPointer)
+            subjectQuestionList.append(subjectQuestions.questions)
+    for subject in subjectList:
+        subjectType = subjects[subject]
+        print(subjectType)
 
 if __name__ == '__main__':
     main()
