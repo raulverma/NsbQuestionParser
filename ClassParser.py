@@ -63,6 +63,7 @@ class QuestionParser():
 def main():
     subjectList = ["Biology", "Chemistry", "EarthScience", "Energy", "Math", "Physics", "SpaceScience"]
     subjectQuestionList = []
+    subjectDict = {}
     AllSubjects = []
     subjects = {
         "Biology":"Life Science",
@@ -86,6 +87,7 @@ def main():
             subjectQuestions.Parse()
             print("Line Count: {} ; Question Count: {}; MA: {} ; SA: {}".format(subjectQuestions.lineCount, len(subjectQuestions.questions), subjectQuestions.MultipleChoiceCount, subjectQuestions.SingleAnswer))
             subjectQuestionList.append(subjectQuestions.questions)
+            subjectDict[subject] = subjectQuestions
     for subject in subjectList:
         subjectType = subjects[subject]
         print(subjectType)
