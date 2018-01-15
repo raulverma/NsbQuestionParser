@@ -52,6 +52,7 @@ class QuestionParser():
                 self.SingleAnswer += 1
             self.__parseSection__(line, qType)
     def getNextQuestion(self):
+
         if (len(self.questions) == 0):
             return ""
         else:
@@ -59,6 +60,11 @@ class QuestionParser():
             self.QuestionPointer += 1
             return currentQuestion
             # return re.sub('MC:|SA:', '', currentQuestion, re.M)
+    def IsAtEnd(self):
+        if (self.QuestionPointer == len(self.questions)):
+            return True
+        else:
+            return False
 
 def main():
     subjectList = ["Biology", "Chemistry", "EarthScience", "Energy", "Math", "Physics", "SpaceScience"]
@@ -88,9 +94,44 @@ def main():
             print("Line Count: {} ; Question Count: {}; MA: {} ; SA: {}".format(subjectQuestions.lineCount, len(subjectQuestions.questions), subjectQuestions.MultipleChoiceCount, subjectQuestions.SingleAnswer))
             subjectQuestionList.append(subjectQuestions.questions)
             subjectDict[subject] = subjectQuestions
-    for subject in subjectList:
-        subjectType = subjects[subject]
-        print(subjectType)
+    questionCounter = 1
+    outputFile = open("NsBQuestions.txt","w")
 
+    while True:
+        QuestionsPending = False
+        for subject in subjectList:
+            currentSubject = subjectDict[subject]
+            subjectType = subjects[subject]
+            questionType = ""
+            currentTossUp = currentSubject.getNextQuestion()
+            if (currentSubject.IsAtEnd()):
+                break
+            if re.match('MC:\s*', currentTossUp.strip(), re.M):
+                questionType = "Multiple Choice"
+            if re.match('SA:\s*', currentTossUp.strip(), re.M):
+                questionType = "Single Answer"
+            currentTossUp = re.sub('MC:|SA:', '', currentTossUp.strip(), re.M)
+            currentQuestion = "{}): Toss Up : {} : {} : {} {}".format(questionCounter, subjectType, questionType, currentTossUp, os.linesep)
+            questionCounter += 1
+            #print(currentQuestion)
+            outputFile.write(currentQuestion)
+
+            questionType = ""
+            currentBonus = currentSubject.getNextQuestion()
+            if (currentSubject.IsAtEnd()):
+                break
+            if re.match('MC:\s*', currentBonus.strip()):
+                questionType = "Multiple Choice"
+            if re.match('SA:\s*', currentBonus.strip()):
+                questionType = "Single Answer"
+            currentBonus = re.sub('MC:|SA:', '', currentBonus.strip(), re.M)
+            currentQuestion = "{}): Bonus : {} : {} : {} {}".format(questionCounter, subjectType, questionType, currentBonus, os.linesep)
+            questionCounter += 1
+            #print(currentQuestion)
+            QuestionsPending = True
+            outputFile.write(currentQuestion)
+        if (not QuestionsPending):
+            break
+    outputFile.close()
 if __name__ == '__main__':
     main()
